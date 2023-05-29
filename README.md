@@ -1,1 +1,1 @@
-# git_qovluq
+# git_qovluq menim fayllarmi saxlamaq ucun yaradilib
